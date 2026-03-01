@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "14平米にスーベニア",
+  "base_artist": "久川凪 (CV: 立花日菜)",
+  "createdAt": "2026-03-01T10:12:02.009773Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "14平米にスーベニア",
+      "artist": "久川凪",
+      "has_synced": true,
+      "path": "select/01_14平米にスーベニア_久川凪.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "14平米にスーベニア",
+      "artist": "久川凪 (CV: 立花日菜)",
+      "has_synced": false,
+      "path": "select/pl_01_14平米にスーベニア_久川凪_(CV__立花日菜).txt"
+    }
+  ]
+}
